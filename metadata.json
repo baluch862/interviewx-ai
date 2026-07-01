@@ -1,0 +1,6 @@
+{
+  "name": "InterviewX AI",
+  "description": "Premium AI-powered interview preparation platform with real-time feedback and smart coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
